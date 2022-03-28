@@ -1,8 +1,13 @@
 # Project Title: PacMen Exercise
 
-**Description:** Assignment to create a web page that produces a PacMen on the click of a button by using array methods and techniques for manipulating the DOM.
-**How to Run:** Launch the index.html in your browser, click start game and start clicking away on the add PacMan button. The PacMen will start launching in random directions and speed and bounce off the borders.
-**Roadmap of future improvements:** Add animation to the PacMen and perhaps when direction reverses so does the face.
+**Description:** Assignment to create a web page that produces a PacMen on the click of a button by using array methods and techniques for manipulating the DOM.  
+
+ 
+**How to Run:** Launch the index.html in your browser, click start game and start clicking away on the add PacMan button. The PacMen will start launching in random directions and speed and bounce off the borders.  
+
+ 
+**Roadmap of future improvements:** Add animation to the PacMen and perhaps when direction reverses so does the face.  
+
  
 
 License information: Copyright (c) 2020 John Williams
